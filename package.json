@@ -1,0 +1,25 @@
+{
+  "name": "electron-tutorial",
+  "version": "1.0.0",
+  "description": "learning electron",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rastilan/Electron-Tutorial.git"
+  },
+  "keywords": [
+    "electron"
+  ],
+  "author": "Chris Hall",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rastilan/Electron-Tutorial/issues"
+  },
+  "homepage": "https://github.com/Rastilan/Electron-Tutorial#readme",
+  "devDependencies": {
+    "electron": "^28.2.1"
+  }
+}
